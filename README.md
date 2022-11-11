@@ -2,7 +2,7 @@
 
 before running the code, install the following
 
-pip install aiohttp==3.8.1
+pip install aiohttp==3.8.1 //
 pip install aiosignal==1.2.0
 pip install appdirs==1.4.4
 pip install argon2-cffi==21.3.0
